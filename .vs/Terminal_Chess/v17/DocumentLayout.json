@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Queen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\Queen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Figure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\Figure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\Bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842094AE-4171-4255-A675-9B2FF7CD2641}|Terminal_Chess\\Terminal_Chess.vcxproj|solutionrelative:Terminal_Chess\\src\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rook.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Rook.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\Rook.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Rook.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\Rook.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:44:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queen.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Queen.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\Queen.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Queen.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\Queen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:44:27.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pawn.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Pawn.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\Pawn.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Pawn.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\Pawn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:44:22.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Knight.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Knight.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\Knight.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Knight.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\Knight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:44:17.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "King.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\King.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\King.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\King.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\King.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:44:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Game.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\Game.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Game.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:44:07.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Figure.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Figure.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\Figure.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Figure.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\Figure.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:44:00.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bishop.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Bishop.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\Bishop.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Bishop.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\Bishop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:43:23.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Board.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\src\\Board.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\src\\Board.cpp",
+              "RelativeToolTip": "Terminal_Chess\\src\\Board.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:38:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\main.cpp",
+              "RelativeDocumentMoniker": "Terminal_Chess\\main.cpp",
+              "ToolTip": "C:\\Code\\C\u002B\u002B\\Terminal_Chess\\Terminal_Chess\\main.cpp",
+              "RelativeToolTip": "Terminal_Chess\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T09:34:33.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
